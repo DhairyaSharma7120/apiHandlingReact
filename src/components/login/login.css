@@ -46,6 +46,13 @@
     color: var(--globalAccentColor);
     font-size: 15px;
 }
+
+.loginForm input:visited + label {
+    transform: translate(0px, -60px);
+    color: var(--globalAccentColor);
+    font-size: 15px;
+}
+
 .loginForm button{
     border:2px solid transparent;
     outline:none;
