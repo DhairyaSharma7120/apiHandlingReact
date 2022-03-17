@@ -1,0 +1,27 @@
+.searchContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.searchBar{
+    box-shadow: 2px 2px 8px grey;
+    height: 45px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px;
+}
+
+.searchBar input{
+    border: none;
+    width: 90%;
+    outline: none;
+    height: 100%;
+    background: transparent;
+}
+.searchBar input:active{
+    border: none;
+    background: transparent;
+}

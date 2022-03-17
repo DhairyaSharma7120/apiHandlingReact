@@ -1,0 +1,11 @@
+.dataCards{
+    margin: 10px;
+    box-shadow: 2px 2px 8px grey;
+    display: flex;
+    align-items: center;
+}
+
+.itemDetails{
+    display: flex;
+    flex-direction: column;
+}
